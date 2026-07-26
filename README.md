@@ -46,7 +46,7 @@
 
 ## 🔗 Links
 
-- Portfolio（Notion）: ＜Notion の URL＞
+- Portfolio（Notion）: https://silk-tenor-b17.notion.site/28-iOS-3a8956919ffb8027b001c557a188d20f?source=copy_link
 - App Store（開発者ページ）: ＜ここにURL＞
 - Zenn: ＜ここにURL＞
 
