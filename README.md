@@ -7,7 +7,7 @@
 
 - 🔬 研究: 数式入力特化の iOS カスタムキーボード **iFlickMath**（Swift / UIKit / Keyboard Extension）
 - 📱 個人開発: 学習支援アプリ 3 本＋実用ツール 1 本を App Store で運用
-- ✍️ 発信: ＜Zenn の URL＞
+- ✍️ 発信: ＜Zenn の URL＞（準備中）
 
 ---
 
@@ -46,8 +46,8 @@
 
 ## 🔗 Links
 
-- Portfolio（Notion）: https://silk-tenor-b17.notion.site/28-iOS-3a8956919ffb8027b001c557a188d20f?source=copy_link
-- App Store（開発者ページ）: ＜ここにURL＞
+- Portfolio（Notion）: https://silk-tenor-b17.notion.site/28-iOS-3a8956919ffb8027b001c557a188d20f
+- App Store（開発者ページ）: https://apps.apple.com/jp/developer/asahi-takatsuka/id1811960139
 - Zenn: ＜ここにURL＞
 
 <!-- 【任意】GitHub Stats を出したい場合は下のコメントを外して username はそのまま
