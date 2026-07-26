@@ -17,25 +17,23 @@
 フリック入力の発想で、累乗・根号・分数などを少ないタップで直感的に入力。STACK（数式自動採点システム）対応コードの出力に対応し、任意のアプリで利用可能。名古屋大学大学院での研究成果。
 `Swift` `UIKit` `Keyboard Extension` `App Group` `StoreKit 2`
 - Repo: https://github.com/takaasa0114/iFlickMath
-- App Store: ＜ここにURL＞
+- App Store: https://apps.apple.com/app/id6760843026
 
 ### 中学生の英単語帳800 — 中学生向け英単語アプリ
 教科書頻出の重要単語約 800 語を収録。テスト範囲の細かい選択、3 つの学習モード、間違えた単語の自動リスト化などを実装。塾バイトでの現場の声をもとに改善。
 `Swift`
-- App Store: ＜ここにURL＞
+- App Store: https://apps.apple.com/app/id6755569208
 <!-- 該当する GitHub リポジトリがあれば追記 -->
 
 ### Alarm Quiz 〜アラームで勉強〜 — 英単語学習 × アラーム
 アラームを止めるには英単語クイズへの正解が必要。寝起きの数分で毎日英単語に触れる習慣化を狙ったアプリ。完答で植物が育つゲーミフィケーションを実装。
 `Swift`
-- Repo: https://github.com/takaasa0114/wakequiz-legal
-- App Store: ＜ここにURL＞
+- App Store: https://apps.apple.com/app/id6763588868
 
 ### 証明写真 SnapID — スマホで完結する証明写真アプリ
 撮影 → 規格選択 → 台紙作成の 3 ステップでコンビニ印刷まで対応。AI による背景除去、顔検出の自動トリミングを実装。画像処理は端末内で完結。App Store の市場分析から領域を選定して開発。
 `Swift`
-- Repo: https://github.com/takaasa0114/snapid-site
-- App Store: ＜ここにURL＞
+- App Store: https://apps.apple.com/app/id6780233032
 
 ---
 
