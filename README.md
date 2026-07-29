@@ -48,7 +48,7 @@
 
 - Portfolio（Notion）: https://silk-tenor-b17.notion.site/28-iOS-3a8956919ffb8027b001c557a188d20f
 - App Store（開発者ページ）: https://apps.apple.com/jp/developer/asahi-takatsuka/id1811960139
-- Zenn: ＜ここにURL＞
+- Zenn: ＜現在作成中＞
 
 <!-- 【任意】GitHub Stats を出したい場合は下のコメントを外して username はそのまま
 ![Asahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=takaasa0114&show_icons=true&hide_border=true)
